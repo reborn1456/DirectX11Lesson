@@ -1,0 +1,9 @@
+{
+  "ClassName": "Aircraft",
+  "Name": "Enemy",
+  "Tag": 17,
+  "ModelFileName": "Data/Aircraft/Aircraft_body.gltf",
+  "Pos": [ 0, 10, 20 ],
+  "Rot": [ 0, 180, 0 ],
+  "PropNum": 5
+}

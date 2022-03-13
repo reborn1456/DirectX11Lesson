@@ -1,0 +1,9 @@
+{
+  "ClassName": "Aircraft",
+  "Name": "Player",
+  "Tag": 2,
+  "ModelFileName": "Data/Aircraft/Aircraft_full.gltf",
+  "Pos": [ 0, 10, 3 ],
+  "Rot": [ 0, 15, 0 ],
+  "PropNum": 5
+}
